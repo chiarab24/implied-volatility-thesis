@@ -1,4 +1,4 @@
-# implied-volatility-thesis
+# Implied Volatility Thesis
 Macroeconomic Drivers of Implied Volatility in USD and EUR Swaption Markets
 
 This repository contains the code, cleaned datasets, and final dissertation for the MSc Computational Finance thesis:  
